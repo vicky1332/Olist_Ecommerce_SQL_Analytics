@@ -41,7 +41,6 @@ The project focuses on answering real-world business questions using MySQL and p
 - LAG()
 - NTILE()
 - PARTITION BY
-- KPI Analysis
 
 ## Dataset
 
