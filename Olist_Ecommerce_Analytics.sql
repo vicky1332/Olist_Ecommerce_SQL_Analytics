@@ -1,3 +1,21 @@
+-- =========================================================
+-- OLIST E-COMMERCE SQL ANALYTICS
+-- =========================================================
+--
+-- Project: Olist Brazilian E-Commerce Analytics
+-- Database: MySQL
+-- Tool: MySQL Workbench
+--
+-- Description:
+-- End-to-end SQL analysis covering business overview,
+-- sales, revenue, customers, sellers, payments, reviews,
+-- freight, delivery performance, and advanced SQL analysis.
+--
+-- The project progresses from fundamental SQL analysis
+-- to advanced techniques including CTEs, subqueries,
+-- ranking, and window functions.
+--
+-- =========================================================
 CREATE DATABASE olist;
 USE olist;
 
