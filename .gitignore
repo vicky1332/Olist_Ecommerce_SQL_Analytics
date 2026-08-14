@@ -1,0 +1,16 @@
+# Dataset files
+*.csv
+*.xlsx
+*.xls
+
+# MySQL files
+*.ibd
+*.frm
+
+# Temporary files
+*.tmp
+*.log
+
+# IDE / editor files
+.vscode/
+.idea/
