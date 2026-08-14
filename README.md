@@ -82,7 +82,6 @@ Advanced analytical queries using ranking, window functions, CTEs, and time-base
 - `LAG()`
 - `NTILE()`
 - `PARTITION BY`
-- KPI Analysis
 - Business-focused Data Analysis
 
 ---
