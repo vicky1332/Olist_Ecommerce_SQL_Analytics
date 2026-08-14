@@ -157,3 +157,9 @@ The dataset contains information related to:
 This project demonstrates practical skills in:
 
 **SQL Analytics • MySQL • Business Intelligence • Customer Analytics • Sales Analytics • Revenue Analysis • Seller Analytics • Logistics Analytics • KPI Analysis • Advanced SQL • Business Problem Solving**
+
+---
+
+## 👤 Author
+
+**Trivikram Kambhampati**
